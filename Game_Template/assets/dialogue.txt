@@ -1,0 +1,83 @@
+[Green Bro]
+Hey, [RED]! 
+I heard that [YOU] are gonna [FIGHT] the evil [DRAGON] in the [CASTLE]!
+I've told [PURPLE] to give you some [SUPPLEMENTS]!
+But you need to collect [COINS] to get [THEM]!
+Now your [COINS] are [ENOUGH]!
+Would you like to [BUY] some [SUPPLEMENTS]?
+
+Press X to see what you can buy.
+Press C to cancel.
+
+--Pressed X:
+Put away your old bronze [SWORD]!
+It's time to get an [IRON] one!
+I will take 15 [COINS], will you [PUECHASE] it?
+
+Press X to buy the iron sword.
+Press C to cancel.
+
+Your iron [SWORD] isn't strong enough!
+It's time to get a [STEEL] one!
+I will take 40 [COINS], will you [PUECHASE] it?
+
+Press X to buy the steel sword.
+Press C to cancel.
+
+Tired of all the [STEEL] things?
+Want an [EPIC] weapon?
+A [GOLDEN] sword [MUST] fit your [APPETITE]!
+I will take 200 [COINS], will you [PUECHASE] it?
+
+Press X to buy the golden sword.
+Press C to cancel.
+
+--If your money isn't enough:
+Sorry, it [SEEMS] that you are [LACK] of [MONEY]!
+Now, get more [COINS] and come back [LATER]!
+
+[Banana the Chef]
+Hi, crew. the canteen is always glad to serve you.
+Do yo wanna some energy-giving dishes?
+
+Press X to see what you can buy.
+Press C to cancel.
+
+--Pressed X:
+I'm a creative chef and here are my newest creations:
+Are you interested in my canteen's special Herring Flavored Potato Chips?
+It's on sale, just 88 coins for each!
+
+Press X to buy Herring Flavored Potato Chips.
+Press C to cancel.
+
+Or, would you like some drinks and have a rest?
+My canteen's Bhut Jolokia Banana Milkshake is a fabulous try!
+It's only takes you 38 coins!
+
+Press X to buy Bhut Jolokia Banana Milkshake.
+Press C to cancel.
+
+--If your money isn't enough:
+Well, you don't have enough money.
+Then how about my canteen's free Nuo Nuo Lemonade for guests?
+
+Press X to buy Nuo Nuo Lemonade.
+Press C to cancel.
+
+[Purple the Genius]
+
+
+[Battle]
+*enemy_name* approached you!
+You used your sword to attact *enemy_name*!
+*enemy_name* attacked you!
+
+--Win
+*enemy_name* fled away!
+
+--Lose
+GAME OVER
+·Practice more if you are cabbage.
+·Never play if you can't afford to.
+·The past is past and the present is present.
